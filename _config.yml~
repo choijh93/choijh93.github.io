@@ -1,0 +1,6 @@
+#Site settings
+markdown: kramdown
+auto_ids: false
+title: "Andrew Kwon"
+headertext: "Andrew Kwon"
+github: [metadata]
